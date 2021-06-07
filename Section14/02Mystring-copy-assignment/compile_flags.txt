@@ -1,0 +1,3 @@
+-IY:\udemy\BeginningCppProgramming\CPPExamples\Section14\02Mystring-copy-assignment
+-target
+i686-pc-windows-gnu

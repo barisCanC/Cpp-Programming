@@ -1,0 +1,7 @@
+_MYSTRING_H_	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^#define _MYSTRING_H_$/;"	macro	line:2
+Mystring	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^class Mystring$/;"	class	line:4
+str	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^    char *str;$/;"	member	line:6	class:Mystring	access:private
+Mystring	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^    Mystring();$/;"	prototype	line:8	class:Mystring	access:public	signature:()
+Mystring	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^    Mystring( char *s);$/;"	prototype	line:9	class:Mystring	access:public	signature:( char *s)
+~Mystring	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^    ~Mystring();$/;"	prototype	line:10	class:Mystring	access:public	signature:()
+display	Y:\udemy\BeginningCppProgramming\CPPExamples\Section14\01Mystring-start\Mystring.h	/^    void display();$/;"	prototype	line:11	class:Mystring	access:public	signature:()	returns:void 

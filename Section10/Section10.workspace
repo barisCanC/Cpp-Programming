@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section10" Database="" Version="10000">
+  <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
+  <Project Name="C++Strings" Path="C++Strings/C++Strings.project" Active="No"/>
+  <Project Name="Challange" Path="Challange/Challange.project" Active="No"/>
+  <Project Name="Assignment1" Path="Assignment1/Assignment1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CStyleStrings" ConfigName="Debug"/>
+      <Project Name="C++Strings" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
+      <Project Name="Assignment1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CStyleStrings" ConfigName="Release"/>
+      <Project Name="C++Strings" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
+      <Project Name="Assignment1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

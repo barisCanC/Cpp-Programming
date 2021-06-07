@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="forLoop" Path="forLoop/forLoop.project" Active="No"/>
+  <Project Name="rangeBasedForLoop" Path="rangeBasedForLoop/rangeBasedForLoop.project" Active="No"/>
+  <Project Name="while" Path="while/while.project" Active="No"/>
+  <Project Name="do_while" Path="do_while/do_while.project" Active="No"/>
+  <Project Name="continue_break" Path="continue_break/continue_break.project" Active="No"/>
+  <Project Name="nestedLoops" Path="nestedLoops/nestedLoops.project" Active="No"/>
+  <Project Name="histogram" Path="histogram/histogram.project" Active="No"/>
+  <Project Name="Challange" Path="Challange/Challange.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="forLoop" ConfigName="Debug"/>
+      <Project Name="rangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="while" ConfigName="Debug"/>
+      <Project Name="do_while" ConfigName="Debug"/>
+      <Project Name="continue_break" ConfigName="Debug"/>
+      <Project Name="nestedLoops" ConfigName="Debug"/>
+      <Project Name="histogram" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="forLoop" ConfigName="Release"/>
+      <Project Name="rangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="while" ConfigName="Release"/>
+      <Project Name="do_while" ConfigName="Release"/>
+      <Project Name="continue_break" ConfigName="Release"/>
+      <Project Name="nestedLoops" ConfigName="Release"/>
+      <Project Name="histogram" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

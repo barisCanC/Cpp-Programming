@@ -1,0 +1,3 @@
+-IY:\udemy\BeginningCppProgramming\CPPExamples\Section12\ArraysAndPointers
+-target
+i686-pc-windows-gnu

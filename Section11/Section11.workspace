@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="Math" Path="Math/Math.project" Active="No"/>
+  <Project Name="functionParameters" Path="functionParameters/functionParameters.project" Active="No"/>
+  <Project Name="defaultArguments" Path="defaultArguments/defaultArguments.project" Active="No"/>
+  <Project Name="functionOverloading" Path="functionOverloading/functionOverloading.project" Active="Yes"/>
+  <Project Name="denemeArray" Path="denemeArray/denemeArray.project" Active="No"/>
+  <Project Name="ArraysAndFunctions" Path="ArraysAndFunction/ArraysAndFunction.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Debug"/>
+      <Project Name="functionParameters" ConfigName="Debug"/>
+      <Project Name="defaultArguments" ConfigName="Debug"/>
+      <Project Name="functionOverloading" ConfigName="Debug"/>
+      <Project Name="denemeArray" ConfigName="Debug"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Release"/>
+      <Project Name="functionParameters" ConfigName="Release"/>
+      <Project Name="defaultArguments" ConfigName="Release"/>
+      <Project Name="functionOverloading" ConfigName="Release"/>
+      <Project Name="denemeArray" ConfigName="Release"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

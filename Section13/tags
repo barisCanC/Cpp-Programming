@@ -1,0 +1,7 @@
+_MOVIES_H_	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^#define _MOVIES_H_$/;"	macro	line:2
+Movies	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^class Movies$/;"	class	line:7
+vec_movie	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^    std::vector <Movie>vec_movie;$/;"	member	line:10	class:Movies	access:private
+add_movie	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^    int add_movie(std::string movie_name, std::string movie_rating, unsigned movie_watched);$/;"	prototype	line:12	class:Movies	access:public	signature:(std::string movie_name, std::string movie_rating, unsigned movie_watched)	returns:int 
+increment_movie	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^    int increment_movie(std::string movie_name);$/;"	prototype	line:13	class:Movies	access:public	signature:(std::string movie_name)	returns:int 
+Movies	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^    Movies();$/;"	prototype	line:14	class:Movies	access:public	signature:()
+~Movies	Y:\udemy\BeginningCppProgramming\CPPExamples\Section13\Challenge\Movies.h	/^    ~Movies();$/;"	prototype	line:15	class:Movies	access:public	signature:()

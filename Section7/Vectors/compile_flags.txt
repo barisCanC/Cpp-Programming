@@ -1,0 +1,4 @@
+-IY:\udemy\BeginningCppProgramming\CPPExamples\Section7\Vectors
+-std=c++17
+-target
+x86_64-pc-windows-gnu
