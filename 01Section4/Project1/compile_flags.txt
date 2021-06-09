@@ -1,0 +1,3 @@
+-IY:\udemy\BeginningCppProgramming\CPPExamples\01Section4\Project1
+-target
+i686-pc-windows-gnu

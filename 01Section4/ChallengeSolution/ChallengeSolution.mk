@@ -5,15 +5,15 @@
 ## Debug
 ProjectName            :=ChallengeSolution
 ConfigurationName      :=Debug
-WorkspacePath          :=Y:/udemy/BeginningCppProgramming/CPPExamples/Section4
-ProjectPath            :=Y:/udemy/BeginningCppProgramming/CPPExamples/Section4/ChallengeSolution
+WorkspacePath          :=Y:/udemy/BeginningCppProgramming/CPPExamples/01Section4
+ProjectPath            :=Y:/udemy/BeginningCppProgramming/CPPExamples/01Section4/ChallengeSolution
 IntermediateDirectory  :=$(ConfigurationName)
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=yagmu
-Date                   :=07/03/2021
+Date                   :=09/06/2021
 CodeLitePath           :="C:/Program Files/CodeLite"
 LinkerName             :="C:/Program Files/mingw-w64/mingw64/bin/g++.exe"
 SharedObjectLinkerName :="C:/Program Files/mingw-w64/mingw64/bin/g++.exe" -shared -fPIC
@@ -95,7 +95,7 @@ PreBuild:
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
-	$(CXX) $(IncludePCH) $(SourceSwitch) "Y:/udemy/BeginningCppProgramming/CPPExamples/Section4/ChallengeSolution/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "Y:/udemy/BeginningCppProgramming/CPPExamples/01Section4/ChallengeSolution/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
